@@ -1,0 +1,2 @@
+# Iqoption-
+Señales Inteligente 🧠 
