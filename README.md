@@ -4,9 +4,9 @@ eur usd otc 1 miunto
 eur jpy otc 1miunto 
 mandame las señales ami bot de Telegram 
 conectar mi bot de Telegram  
-IQ_USER = "tu_ sv1240478@gmail.com
-IQ_PASS = "tu_contraseña"henao120
-TELEGRAM_TOKEN =8313904219:AAGrk7sDzZewAd43MJMoGHbDRB06qGzDoDs "TU_TELEGRAM_BOT_TOKEN"@Henbot4_bot
+IQ_USER = "tu_ 
+IQ_PASS = "tu_
+TELEGRAM_TOKEN "TU_TELEGRAM_BOT_TOKEN"@Henbot4_bot
 CHAT_ID = "ID_DE_TU_CHAT_O_CANAL" # Ej: -1008313904219
 
 # Inicializar Bot de Telegram
